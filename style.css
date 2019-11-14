@@ -10,7 +10,7 @@ h2{
   font-size: 19px;
 }
 h2:hover{
-  transform: scale(1.5);
+  text-shadow: 0 0 2rem #ffffff;
 }
 body,html {
   margin: 0;
